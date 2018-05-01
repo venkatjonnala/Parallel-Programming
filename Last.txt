@@ -211,3 +211,5 @@ void calcSet(int startIdx, int endIdx, int chunkSize)
     //Send the array back to be memcpy'ed into MSet
     MPI_Send(localMSet, chunkSize, MPI_INT, 0, 3, MPI_COMM_WORLD);
 }
+
+#https://stackoverflow.com/questions/20548628/how-to-do-parallel-programming-in-python
