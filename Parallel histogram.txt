@@ -65,3 +65,5 @@ int main()
 
     return 0;
 }
+
+#https://github.com/lionleaf/parallel-c-programs/tree/master/4-histogram-equalization-openmp-pthreads
