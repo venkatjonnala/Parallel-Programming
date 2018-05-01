@@ -24,3 +24,5 @@ pi = (double)count/niter*4;
     printf(" # of trails = %d , estimate of pi is %g \n",niter,pi);
     return 0;
 }
+
+#https://rosettacode.org/wiki/Monte_Carlo_methods
