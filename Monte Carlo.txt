@@ -26,3 +26,5 @@ pi = (double)count/niter*4;
 }
 
 #https://rosettacode.org/wiki/Monte_Carlo_methods
+
+//more resolutions needed
